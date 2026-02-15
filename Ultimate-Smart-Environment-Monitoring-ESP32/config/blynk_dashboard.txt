@@ -1,0 +1,2 @@
+Widgets:
+V0 temp, V1 humidity, V2 air raw, V3 AQI label, V10 auto switch
